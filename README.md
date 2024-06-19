@@ -5,7 +5,7 @@ Authors:Markus MukenhirnChen-Ho Wang, Tristan Guyomar, Matthew J. Bovyn, Michael
 1. Analysis code and example data for analysing Junctional recoil
 2.  Analysis code and example data for Lumen/Cyst segmentation
 
-## Latest release: 
+## Latest release: [![DOI](https://zenodo.org/badge/797815971.svg)](https://zenodo.org/doi/10.5281/zenodo.11174400)
 
 ## 1. Junctional recoil
 ## Contribution: Alf Honigmann
