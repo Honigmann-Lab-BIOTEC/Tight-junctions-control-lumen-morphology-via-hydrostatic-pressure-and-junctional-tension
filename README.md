@@ -6,3 +6,23 @@ This repository contains:
 2.  Analysis code and example data for Lumen/Cyst segmentation
 
 ## Latest release
+
+## 1. Junctional recoil
+# Contribution: Alf Honigmann
+# Installation: 
+System requirements: Programming language: MATLAB R2019a, Toolbox Image Processing required
+OS Name: Windows 10 Enterprise LTSC
+OS Type: 64-bit
+# Run Junction recoil measurement
+open Lasercutting_V4 in Matlab, add path for bfopen to open .czi example file file
+run skript and open eg. Image 2 Block 1.czi and Image 2 Block 2.czi together
+Mark each oposing tricellular junction before with a box before cut
+a file called Image 2 Block 1-Recoil.mat is being created
+open Calculate_recoil.m and run on all previously created files
+get initial recoil curves and datapoints
+
+## Lumen/Cyst segmentation
+# Contribution: Anna Goncharova, Markus Mukenhirn, Alf Honigmann, Byung Ho Lee
+# Installation: 
+install Limeseg Fiji Plugin https://imagej.net/plugins/limeseg
+follow limeseg documentation
