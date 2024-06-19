@@ -1,19 +1,19 @@
-## Code for: "Tight junctions control-lumen morphology-via hydrostatic pressure and junctional tension"
+# Code for: "Tight junctions control-lumen morphology-via hydrostatic pressure and junctional tension"
 Authors:Markus MukenhirnChen-Ho Wang, Tristan Guyomar, Matthew J. Bovyn, Michael F. Staddon, Rozemarijn E. van der Veen, Riccardo Maraspini, Linjie Lu, Cecilie Martin-Lemaitre, Masaki Sano, Martin Lehmann, Tetsuya Hiraiwa, Daniel Riveline, Alf Honigmann
 
-This repository contains:
+## This repository contains:
 1. Analysis code and example data for analysing Junctional recoil
 2.  Analysis code and example data for Lumen/Cyst segmentation
 
 ## Latest release: 
 
 ## 1. Junctional recoil
-# Contribution: Alf Honigmann
-# Installation: 
+## Contribution: Alf Honigmann
+## Installation: 
 System requirements: Programming language: MATLAB R2019a, Toolbox Image Processing required
 OS Name: Windows 10 Enterprise LTSC
 OS Type: 64-bit
-# Run Junction recoil measurement
+## Run Junction recoil measurement
 open Lasercutting_V4 in Matlab, add path for bfopen to open .czi example file file
 run skript and open eg. Image 2 Block 1.czi and Image 2 Block 2.czi together
 Mark each oposing tricellular junction before with a box before cut
