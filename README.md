@@ -22,7 +22,7 @@ OS Type: 64-bit
 6. get initial recoil curves and datapoints
 
 ## Lumen/Cyst segmentation
-# Contribution: Anna Goncharova, Markus Mukenhirn, Alf Honigmann, Byung Ho Lee
-# Installation: 
+## Contribution: Anna Goncharova, Markus Mukenhirn, Alf Honigmann, Byung Ho Lee
+## Installation: 
 install Limeseg Fiji Plugin https://imagej.net/plugins/limeseg
 follow limeseg documentation
