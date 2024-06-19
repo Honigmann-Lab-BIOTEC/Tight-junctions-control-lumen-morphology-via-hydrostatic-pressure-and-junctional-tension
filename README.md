@@ -14,12 +14,12 @@ System requirements: Programming language: MATLAB R2019a, Toolbox Image Processi
 OS Name: Windows 10 Enterprise LTSC
 OS Type: 64-bit
 ## Run Junction recoil measurement
-open Lasercutting_V4 in Matlab, add path for bfopen to open .czi example file file
-run skript and open eg. Image 2 Block 1.czi and Image 2 Block 2.czi together
-Mark each oposing tricellular junction before with a box before cut
-a file called Image 2 Block 1-Recoil.mat is being created
-open Calculate_recoil.m and run on all previously created files
-get initial recoil curves and datapoints
+1. open Lasercutting_V4 in Matlab, add path for bfopen to open .czi example file file
+2. run skript and open eg. Image 2 Block 1.czi and Image 2 Block 2.czi together
+3. Mark each oposing tricellular junction before with a box before cut
+4. a file called Image 2 Block 1-Recoil.mat is being created
+5. open Calculate_recoil.m and run on all previously created files
+6. get initial recoil curves and datapoints
 
 ## Lumen/Cyst segmentation
 # Contribution: Anna Goncharova, Markus Mukenhirn, Alf Honigmann, Byung Ho Lee
